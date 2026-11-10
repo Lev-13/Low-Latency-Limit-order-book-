@@ -1,0 +1,6 @@
+\build
+.vscode/
+\googletest
+/Generate_Orders/orders.txt
+*.txt
+*.csv
