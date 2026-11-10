@@ -1,6 +1,6 @@
-# Ultra-Low-Latency Limit Order Book (LOB) Engine
+# Low-Latency Limit Order Book (LOB) Engine
 
-A high-performance, ultra-low-latency Limit Order Book (LOB) and matching engine written in C++20. Designed for algorithmic trading and high-frequency trading (HFT) environments, this engine is optimized for maximum throughput and deterministic execution, achieving **over 3.7 million transactions per second (TPS)**.
+A high-performance, low-latency Limit Order Book (LOB) and matching engine written in C++20. Designed for algorithmic trading and high-frequency trading (HFT) environments, this engine is optimized for maximum throughput and deterministic execution, achieving **over 3.7 million transactions per second (TPS)**.
 
 ## Core Features & Supported Order Types
 
