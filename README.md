@@ -28,16 +28,4 @@ Achieving 3.7M+ TPS requires strict adherence to mechanical sympathy and hardwar
 
 ## Build Instructions
 
-This project uses CMake and requires a compiler that supports C++20.
-
-```bash
-# Clone the repository
-git clone [https://github.com/yourusername/Low-Latency-Limit-order-book.git](https://github.com/yourusername/Low-Latency-Limit-order-book.git)
-cd Low-Latency-Limit-order-book
-
-# Create build directory
-mkdir build && cd build
-
-# Configure and compile with optimizations
-cmake -DCMAKE_BUILD_TYPE=Release ..
-make -j$(nproc)
+to run make sure to run first generate script which generate orders and then only run the main file
